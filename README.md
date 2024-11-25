@@ -1,7 +1,6 @@
+<img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" alt="developer"/>
 <h1 align="center">Hi 👋, I'm Ahmed Hussein Mosalam</h1>
 <h3 align="center">Web developer specialized in frontend</h3>
-
-<img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" alt="developer"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed hussein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed hussein" height="30" width="40" /></a>
